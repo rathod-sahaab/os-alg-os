@@ -25,11 +25,11 @@ This repository contains easy to understand algorithms used in operating system 
   - [ ] Managing Free Memory
     - [ ] Datastructures
       - [ ] Bitmaps
-      - [ ] Sorted Linked list of Processes and Holes
+      - [x] Sorted Linked list of Processes and Holes
     - [ ] Algorithms
-      - [ ] First fit
+      - [x] First fit
       - [ ] Next fit
-      - [ ] Best fit
+      - [x] Best fit
       - [ ] Worst fit
       - [ ] Quick fit
 
